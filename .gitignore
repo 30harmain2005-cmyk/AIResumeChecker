@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+Backend/node_modules/
+Backend/.env
+Frontend/AIResumeChecker/ai-resume-checker-ui-boilerplate-code/node_modules/
+Frontend/AIResumeChecker/ai-resume-checker-ui-boilerplate-code/.env
+Frontend/AIResumeChecker/ai-resume-checker-ui-boilerplate-code/dist/
+
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
